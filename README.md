@@ -177,6 +177,14 @@ Outil developpe par Ayi NEDJIMI dans le cadre de la suite WinToolsSuite.
 Pour toute question ou suggestion, consulter la documentation de WinToolsSuite.
 
 
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
+
 ---
 
 <div align="center">
